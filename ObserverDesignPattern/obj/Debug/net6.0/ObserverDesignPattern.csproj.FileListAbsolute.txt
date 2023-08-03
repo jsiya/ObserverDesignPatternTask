@@ -1,0 +1,15 @@
+C:\Users\Siya\source\repos\ObserverDesignPattern\ObserverDesignPattern\bin\Debug\net6.0\ObserverDesignPattern.exe
+C:\Users\Siya\source\repos\ObserverDesignPattern\ObserverDesignPattern\bin\Debug\net6.0\ObserverDesignPattern.deps.json
+C:\Users\Siya\source\repos\ObserverDesignPattern\ObserverDesignPattern\bin\Debug\net6.0\ObserverDesignPattern.runtimeconfig.json
+C:\Users\Siya\source\repos\ObserverDesignPattern\ObserverDesignPattern\bin\Debug\net6.0\ObserverDesignPattern.dll
+C:\Users\Siya\source\repos\ObserverDesignPattern\ObserverDesignPattern\bin\Debug\net6.0\ObserverDesignPattern.pdb
+C:\Users\Siya\source\repos\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net6.0\ObserverDesignPattern.csproj.AssemblyReference.cache
+C:\Users\Siya\source\repos\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net6.0\ObserverDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Siya\source\repos\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net6.0\ObserverDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Siya\source\repos\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net6.0\ObserverDesignPattern.AssemblyInfo.cs
+C:\Users\Siya\source\repos\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net6.0\ObserverDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Siya\source\repos\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net6.0\ObserverDesignPattern.dll
+C:\Users\Siya\source\repos\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net6.0\refint\ObserverDesignPattern.dll
+C:\Users\Siya\source\repos\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net6.0\ObserverDesignPattern.pdb
+C:\Users\Siya\source\repos\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net6.0\ObserverDesignPattern.genruntimeconfig.cache
+C:\Users\Siya\source\repos\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\net6.0\ref\ObserverDesignPattern.dll
